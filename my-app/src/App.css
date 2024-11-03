@@ -40,7 +40,7 @@
 
 /* App.css or Homepage.css */
 .Homepage {
-  background-image: url('../public/logo192.png'); /* Use this path since the public folder is the root */
+  background-image: url('../src/images/AR-FoodFinder.PNG'); /* Use this path since the public folder is the root */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -50,6 +50,17 @@
   justify-content: space-between; /* Space items evenly, push text to the bottom */
   color: red; /* Text color */
   padding: 20px; /* Add some padding */
-  font-size: 1.5em; /* Adjust this value for larger font size */
+  font-size: 1.4em; /* Adjust this value for larger font size */
 }
+
+/* In App.css */
+body {
+  background-image: url('../src/images/AR-FoodFinder.PNG'); /* Adjust path if necessary */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
 
