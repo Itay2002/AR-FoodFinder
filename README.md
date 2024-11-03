@@ -15,3 +15,10 @@ Future plans include:
 2. Some possible intergration of AI
 3. Other TBD
 
+# Dependencies
+
+`npm install xlsx`
+`npm install react-router-dom`
+
+
+
