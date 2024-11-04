@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "//itay2002.github.io/AR-FoodFinder/static/css/main.99fda292.css",
-    "main.js": "//itay2002.github.io/AR-FoodFinder/static/js/main.f669dffd.js",
+    "main.js": "//itay2002.github.io/AR-FoodFinder/static/js/main.b12b98d3.js",
     "static/js/453.ed3810f9.chunk.js": "//itay2002.github.io/AR-FoodFinder/static/js/453.ed3810f9.chunk.js",
     "static/media/AR-FoodFinder.PNG": "//itay2002.github.io/AR-FoodFinder/static/media/AR-FoodFinder.cae16593e553a694725e.PNG",
     "index.html": "//itay2002.github.io/AR-FoodFinder/index.html",
     "main.99fda292.css.map": "//itay2002.github.io/AR-FoodFinder/static/css/main.99fda292.css.map",
-    "main.f669dffd.js.map": "//itay2002.github.io/AR-FoodFinder/static/js/main.f669dffd.js.map",
+    "main.b12b98d3.js.map": "//itay2002.github.io/AR-FoodFinder/static/js/main.b12b98d3.js.map",
     "453.ed3810f9.chunk.js.map": "//itay2002.github.io/AR-FoodFinder/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99fda292.css",
-    "static/js/main.f669dffd.js"
+    "static/js/main.b12b98d3.js"
   ]
 }
