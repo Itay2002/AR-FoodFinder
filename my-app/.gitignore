@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production - BUILD REMOVED FROM GITIGNORE
+
 
 # misc
 .DS_Store
