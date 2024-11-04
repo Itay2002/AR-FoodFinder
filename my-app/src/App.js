@@ -8,11 +8,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        {/* Redirect root to AR-FoodFinder page */}
-       
-        
-        {/* Define your routes */}
-        <Route path="/" element={<Homepage />} />
+        {/* Redirect root path to /AR-FoodFinder */}
+        <Route path="/" element={<Navigate to="/AR-FoodFinder" replace />} />
+        <Route path="/AR-FoodFinder" element={<Homepage />} />
         <Route path="/City" element={<City />} />
         <Route path="/Food" element={<Food />} />
       </Routes>
