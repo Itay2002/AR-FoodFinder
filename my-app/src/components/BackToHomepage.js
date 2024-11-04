@@ -6,7 +6,7 @@ function BackToHomepage() {
   const navigate = useNavigate();
 
   return (
-    <button onClick={() => navigate('/AR-FoodFinder')}>
+    <button onClick={() => navigate('/')}>
       Back to Homepage
     </button>
   );
