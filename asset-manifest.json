@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AR-FoodFinder/static/css/main.c8bbddd9.css",
-    "main.js": "/AR-FoodFinder/static/js/main.f0159138.js",
-    "static/js/453.ed3810f9.chunk.js": "/AR-FoodFinder/static/js/453.ed3810f9.chunk.js",
-    "static/media/AR-FoodFinder.PNG": "/AR-FoodFinder/static/media/AR-FoodFinder.cae16593e553a694725e.PNG",
-    "index.html": "/AR-FoodFinder/index.html",
-    "main.c8bbddd9.css.map": "/AR-FoodFinder/static/css/main.c8bbddd9.css.map",
-    "main.f0159138.js.map": "/AR-FoodFinder/static/js/main.f0159138.js.map",
-    "453.ed3810f9.chunk.js.map": "/AR-FoodFinder/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Itay2002.github.io/AR-FoodFinder/static/css/main.c8b870e0.css",
+    "main.js": "/Itay2002.github.io/AR-FoodFinder/static/js/main.da0f44b4.js",
+    "static/js/453.ed3810f9.chunk.js": "/Itay2002.github.io/AR-FoodFinder/static/js/453.ed3810f9.chunk.js",
+    "static/media/AR-FoodFinder.PNG": "/Itay2002.github.io/AR-FoodFinder/static/media/AR-FoodFinder.cae16593e553a694725e.PNG",
+    "index.html": "/Itay2002.github.io/AR-FoodFinder/index.html",
+    "main.c8b870e0.css.map": "/Itay2002.github.io/AR-FoodFinder/static/css/main.c8b870e0.css.map",
+    "main.da0f44b4.js.map": "/Itay2002.github.io/AR-FoodFinder/static/js/main.da0f44b4.js.map",
+    "453.ed3810f9.chunk.js.map": "/Itay2002.github.io/AR-FoodFinder/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8bbddd9.css",
-    "static/js/main.f0159138.js"
+    "static/css/main.c8b870e0.css",
+    "static/js/main.da0f44b4.js"
   ]
 }
