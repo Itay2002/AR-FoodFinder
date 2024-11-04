@@ -3,7 +3,7 @@ import * as XLSX from 'xlsx';
 const ReviewsParser = async (name, state, city) => {
   try {
     // Load the workbook (adjust the file path as needed)
-    const workbook = XLSX.readFile('/path/to/your/restaurant_data.xlsx');
+    const workbook = XLSX.readFile('../AR-FoodFinder/FoodAR.xlsx');
     console.log("Workbook loaded successfully:", workbook);
 
     const worksheet = workbook.Sheets[workbook.SheetNames[0]];

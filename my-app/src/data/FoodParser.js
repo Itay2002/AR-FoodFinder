@@ -2,7 +2,7 @@ import * as XLSX from 'xlsx';
 
 const FoodParser = async () => {
   try {
-    const response = await fetch('/FoodAR.xlsx'); // Adjust this path if needed
+    const response = await fetch('../AR-FoodFinder/FoodAR.xlsx'); // Adjust this path if needed
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
