@@ -40,27 +40,34 @@
 
 /* App.css or Homepage.css */
 .Homepage {
-  background-image: url('../src/images/AR-FoodFinder.PNG'); /* Use this path since the public folder is the root */
-  background-size: cover;
+  background-image: url('../src/images/AR-FoodFinder.PNG');
+  background-size: contain; /* or 'cover' if you prefer */
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh; /* Full viewport height */
+  height: 100vh;
   display: flex;
-  flex-direction: column; /* Allow stacking of items vertically */
-  justify-content: space-between; /* Space items evenly, push text to the bottom */
-  color: red; /* Text color */
-  padding: 20px; /* Add some padding */
-  font-size: 1.4em; /* Adjust this value for larger font size */
+  flex-direction: column;
+  justify-content: space-between;
+  color: red;
+  padding: 20px;
+  font-size: 1.4em;
+  font-family: 'Lobster', cursive;
 }
 
 /* In App.css */
 body {
-  background-image: url('../src/images/AR-FoodFinder.PNG'); /* Adjust path if necessary */
-  background-size: cover;
+  background-image: url('../src/images/AR-FoodFinder.PNG');
+  background-size: contain; /* or 'cover' if you prefer */
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh; /* Full viewport height */
-  margin: 0; /* Remove default margin */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: red;
+  padding: 20px;
+  font-size: 1.4em;
+  font-family: 'Lobster', cursive;
 }
 
 
