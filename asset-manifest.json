@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AR-FoodFinder/static/css/main.c8bbddd9.css",
-    "main.js": "/AR-FoodFinder/static/js/main.5b2b63ae.js",
+    "main.js": "/AR-FoodFinder/static/js/main.27d3027b.js",
     "static/js/453.ed3810f9.chunk.js": "/AR-FoodFinder/static/js/453.ed3810f9.chunk.js",
     "static/media/AR-FoodFinder.PNG": "/AR-FoodFinder/static/media/AR-FoodFinder.cae16593e553a694725e.PNG",
     "index.html": "/AR-FoodFinder/index.html",
     "main.c8bbddd9.css.map": "/AR-FoodFinder/static/css/main.c8bbddd9.css.map",
-    "main.5b2b63ae.js.map": "/AR-FoodFinder/static/js/main.5b2b63ae.js.map",
+    "main.27d3027b.js.map": "/AR-FoodFinder/static/js/main.27d3027b.js.map",
     "453.ed3810f9.chunk.js.map": "/AR-FoodFinder/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8bbddd9.css",
-    "static/js/main.5b2b63ae.js"
+    "static/js/main.27d3027b.js"
   ]
 }
