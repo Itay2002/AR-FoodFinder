@@ -6,11 +6,11 @@ const FoodParser = async () => {
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
-
+    
     const data = await response.arrayBuffer();
     const workbook = XLSX.read(data, { type: 'array' });
     const worksheet = workbook.Sheets[workbook.SheetNames[0]];
-
+    
     // Convert the sheet to JSON
     const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
     
@@ -19,8 +19,13 @@ const FoodParser = async () => {
       name: row[0] || '',
       state: (row[1] || '').toUpperCase(), // Ensure state is uppercase
       city: row[2] || '',
+      rating: row[3] || 'N/A',
+      reviews: row[4] || 'No reviews',
+      address: row[5] || 'Address not available',
+      category: row[6] || 'Uncategorized',
+      price: row[7] || 'Price not specified'
     }));
-
+    
     return foodData; // Return all the food data
   } catch (error) {
     console.error("Error parsing Excel file:", error);
